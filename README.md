@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @edouardmisset
-- 👀 I’m interested in Deno
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Deno, AI
+- 🌱 I’m currently learning TDD
 - 📫 How to reach me edouardmisset@gmail.com
 
 <!---
