@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deno, Data Analysis, Typescript
 - 🌱 I’m currently learning TDD and Python
 - 🌍 Check out my [Learning Curve](https://edouardmisset.github.io/my-learning-curve)
-- 🚀 Also, I published an open source Typescript utility library
+- 🚀 Also, I published an open source Typescript utility library on [JSR](https://jsr.io/@edouardmisset/utils)
 - 📫 You can reach me at edouardmisset@gmail.com
 
 <!---
