@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edouardmisset
+- 👋 Hi, I’m Edouard
 - 👀 I’m interested in Typescript, Data Analysis and Rock Climbing 🧗‍♀️
 - 🌱 I’m currently learning TDD and Python
 - 🌍 Check out my [Learning Curve](https://edouardmisset.github.io/my-learning-curve)
