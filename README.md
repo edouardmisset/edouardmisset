@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Edouard
-- 👀 I’m interested in Typescript, Data Analysis and Rock Climbing 🧗‍♀️
-- 🌱 I’m currently learning TDD and Python
+- 👀 I’m interested in Fullstack (JS) Application, Data Analysis and Rock Climbing 🧗‍♀️
 - 🌍 Check out my [Learning Curve](https://edouardmisset.github.io/my-learning-curve)
 - 🚀 Also, I published an open source Typescript utility library on [JSR](https://jsr.io/@edouardmisset/utils)
 - 📫 You can reach me at edouardmisset@gmail.com
